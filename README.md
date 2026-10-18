@@ -108,24 +108,7 @@ The analysis identified several areas for management investigation:
 - Review high-value loss-making transactions before changing pricing or discount policies.
 - Use regional and product-level dashboards to prioritize further investigation.
 
-## Repository Structure
 
-```text
-business-performance-profit-leakage/
-│
-├── README.md
-├── Business_Performance_Profit_Leakage_Intelligence.pbix
-│
-├── python/
-│   └── superstore_analysis.ipynb
-│
-├── sql/
-│   └── superstore_analysis.sql
-│
-└── screenshots/
-    ├── 01_Executive_Overview.png
-    ├── 02_Profit_Leakage.png
-    └── 03_Regional_Product_Insights.png
 ```
 
 ## How to Explore This Project
